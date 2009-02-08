@@ -3,10 +3,10 @@
 echo "var hoff_data = ";
 echo json_encode(
     array(
-        'images/hoff1.jpg',
-        'images/hoff2.jpg',
-        'images/hoff3.jpg',
-        'images/hoff4.jpg',
+        'http://hoffify.co.uk/images/hoff1.jpg',
+        'http://hoffify.co.uk/images/hoff2.jpg',
+        'http://hoffify.co.uk/images/hoff3.jpg',
+        'http://hoffify.co.uk/images/hoff4.jpg',
     )
 );
 echo ";";
